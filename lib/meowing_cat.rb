@@ -1,4 +1,4 @@
 ## code your solution here. 
-def cat 
+class cat 
   attr_accessor:meow
 end
