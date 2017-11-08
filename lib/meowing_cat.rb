@@ -2,5 +2,5 @@
 class Cat
   attr_accessor :meow, :name
 
-  name.meow
+  puts @name.meow
 end
