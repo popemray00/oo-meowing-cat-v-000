@@ -2,4 +2,7 @@
 class Cat
   attr_accessor :meow, :name
 end
- name.meow
+
+ cheese = Cat.new
+
+ cheese.meow
